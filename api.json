@@ -1,0 +1,1905 @@
+{
+    "value": [
+        {
+            "id": 33604,
+            "dni": 36433821,
+            "razonSocial": "AGUIAR, JULIA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "AV. SAN JUAN 854 - B? SANTA GENOVEVA - 7D",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1991-10-29T00:00:00Z"
+        },
+        {
+            "id": 33290,
+            "dni": 22474597,
+            "razonSocial": "URRERE DOMENE, MARIA ALEJANDRA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "ILLIA Y LELOIR U.F 5 0 - BOCHUE",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1972-07-18T00:00:00Z"
+        },
+        {
+            "id": 33362,
+            "dni": 12879481,
+            "razonSocial": "MARTINEZ, CARLOS ALBERTO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "ISLAS MALVINAS 1867 - B? PROVINCIAS UNIDAS - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1959-04-28T00:00:00Z"
+        },
+        {
+            "id": 105099,
+            "dni": 26543405,
+            "razonSocial": "MATUS, MAXIMILIANO RAUL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "CHOCON Y LAGOS ARGENTINOS CASA 305 0 - B# CONFLUENCIA",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1978-03-10T00:00:00Z"
+        },
+        {
+            "id": 89068,
+            "dni": 92254130,
+            "razonSocial": "MILLAHUAL FILUMIL, GILBERTO ENRIQUE",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "SAN PABLO MZA 6 LTE 4 0 - I. MALVINAS SEC. C. COLON",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1949-07-25T00:00:00Z"
+        },
+        {
+            "id": 17063,
+            "dni": 36434728,
+            "razonSocial": "ARENAS, DIEGO ARIEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "CALLE.06.CASA.847 0 - GREGORIO ALVAREZ",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1991-09-25T00:00:00Z"
+        },
+        {
+            "id": 125149,
+            "dni": 94143414,
+            "razonSocial": "PACHECO GARCIA, MIRTHA BERTHA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "MZ C LOTE 8 0 0 0 B# ATAHUALPA I",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1983-05-20T00:00:00Z"
+        },
+        {
+            "id": 43871,
+            "dni": 32215839,
+            "razonSocial": "BURGA??A SANCHEZ, JIMENA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "CORONEL PRINGLES 147",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1986-02-14T00:00:00Z"
+        },
+        {
+            "id": 43268,
+            "dni": 27797159,
+            "razonSocial": "GOMEZ, PATRICIA ELEONORA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "CABO DE HORNOS 2260 824 - SAPERE",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1980-01-17T00:00:00Z"
+        },
+        {
+            "id": 22210,
+            "dni": 28989160,
+            "razonSocial": "CHIANEA, PAULA ANDREA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "PATAGONIA 1469 - B? SECT. ALTOS DEL RUCA CHE - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1981-08-14T00:00:00Z"
+        },
+        {
+            "id": 23554,
+            "dni": 35492237,
+            "razonSocial": "JARA, LAURA CRISTINA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "MZA 48 LOTE 17 0 - LOTEO SOCIAL II - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1990-12-16T00:00:00Z"
+        },
+        {
+            "id": 27376,
+            "dni": 17516609,
+            "razonSocial": "AGUIRRE, MARCELA BEATRIZ",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "MANUEL LAINEZ 557 - AREA CENTRO - 2B13",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1965-12-19T00:00:00Z"
+        },
+        {
+            "id": 35361,
+            "dni": 40613071,
+            "razonSocial": "SOTO GUTIERREZ, BRIAN MICHEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MASCARDI Y ACOSTA 0 - MZA. 9A-LOTE 19 VILLA CEFERINO",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1998-03-28T00:00:00Z"
+        },
+        {
+            "id": 46059,
+            "dni": 40614894,
+            "razonSocial": "COSTA, FIORELLA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "BUENOS AIRES TORRE-B-3 735 - CENTRO - 2A",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1997-09-03T00:00:00Z"
+        },
+        {
+            "id": 97327,
+            "dni": 40616222,
+            "razonSocial": "BUSTOS, ESTEFANIS BEATRIZ",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "CALLE 4 CASA 10 0 - P. FONAVI",
+            "codigoPostal": {
+                "postalID": 8312,
+                "ciudad": "AÑELO",
+                "departamento": "AÑELO",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1997-01-09T00:00:00Z"
+        },
+        {
+            "id": 59047,
+            "dni": 12065065,
+            "razonSocial": "FARINACCIO, JUAN CARLOS",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "M. ALBERTI 1628 - B? PROVINCIAS UNIDAS",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1958-06-30T00:00:00Z"
+        },
+        {
+            "id": 110789,
+            "dni": 10975478,
+            "razonSocial": "PRIOTTO, NILDA ANA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "LOS LIRIOS 898 A 8 ALTA BARDA",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1954-04-15T00:00:00Z"
+        },
+        {
+            "id": 39857,
+            "dni": 37348267,
+            "razonSocial": "BRIDA, CHRISTIAN DANIEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "ACONCAGUA 935 - B? 30 DE OCTUBRE",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1993-03-21T00:00:00Z"
+        },
+        {
+            "id": 63117,
+            "dni": 40927247,
+            "razonSocial": "ALMIRON, ALDANA BELEN",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "YRIGOYEN 873 - CENTRO - 5B",
+            "codigoPostal": {
+                "postalID": 8324,
+                "ciudad": "CIPOLLETTI",
+                "departamento": "GENERAL ROCA",
+                "provincia": "RIO NEGRO",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1998-04-17T00:00:00Z"
+        },
+        {
+            "id": 67529,
+            "dni": 36800526,
+            "razonSocial": "COMIN, CATALINA PIREN",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "SARMIENTO 981 - CENTRO - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1992-05-13T00:00:00Z"
+        },
+        {
+            "id": 71061,
+            "dni": 33316070,
+            "razonSocial": "BARROS, PABLO ANDRES",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "RIO PARANA 321 - B? VILLA FLORENCIA",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1987-06-19T00:00:00Z"
+        },
+        {
+            "id": 123447,
+            "dni": 55159068,
+            "razonSocial": "SUAREZ, ALEJO EZEQUIEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "SERRANO MZA 11 CASA 14 A 4385 B# GRAN NEUQUÉN SUR",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2016-04-01T00:00:00Z"
+        },
+        {
+            "id": 89627,
+            "dni": 35107178,
+            "razonSocial": "PAZ APARICIO, ROCÍO MICAELA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "INTENDENTE MANGO 123 - B? CENTRO - 01",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1990-01-04T00:00:00Z"
+        },
+        {
+            "id": 98822,
+            "dni": 92803029,
+            "razonSocial": "MUÑOZ MUÑOZ, JUAN ALFREDO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "M \"R\" L 9 0 - B? V. CEFERINO SECT LA ESTRELL - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1955-11-29T00:00:00Z"
+        },
+        {
+            "id": 43,
+            "dni": 21581783,
+            "razonSocial": "APEL, GABRIELA VERÓNICA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "DR. RAMON 20 - CENTRO - PB2",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1970-07-20T00:00:00Z"
+        },
+        {
+            "id": 36505,
+            "dni": 37458540,
+            "razonSocial": "NIRIAN PINEDA, MARIA FERNANDA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "LOTE 60 - B? CANTERA",
+            "codigoPostal": {
+                "postalID": 8370,
+                "ciudad": "SAN MARTIN DE LOS ANDES",
+                "departamento": "LÁCAR",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1993-09-11T00:00:00Z"
+        },
+        {
+            "id": 25241,
+            "dni": 26144245,
+            "razonSocial": "AVILA, MARCELO ARIEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MZA D CASA 12 COMAHUE 1208 - B? BELGRANO",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1977-10-10T00:00:00Z"
+        },
+        {
+            "id": 119589,
+            "dni": 41010027,
+            "razonSocial": "ALIAS, CANDELA NICOLE",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "HUEMUL CASA 19 0 MERCANTILES",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1998-03-06T00:00:00Z"
+        },
+        {
+            "id": 7573,
+            "dni": 32577422,
+            "razonSocial": "ÑANCUCHEO, YEMEN HUENU",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "LAS PALOMAS 857 - B# SAN LZO SUR - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1986-10-22T00:00:00Z"
+        },
+        {
+            "id": 22512,
+            "dni": 5515476,
+            "razonSocial": "CAZENEUVE, RICARDO ALBERTO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "A. ENCINA 862 - GAMMA",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1947-06-18T00:00:00Z"
+        },
+        {
+            "id": 83225,
+            "dni": 42604805,
+            "razonSocial": "ESPINOSA, PABLO AGUSTIN",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "12 DE OCTUBRE 1973 - B? NUEVA ESPERANZA",
+            "codigoPostal": {
+                "postalID": 8340,
+                "ciudad": "ZAPALA",
+                "departamento": "ZAPALA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1999-12-01T00:00:00Z"
+        },
+        {
+            "id": 1122,
+            "dni": 35312400,
+            "razonSocial": "RUIZ DIAZ, NOELIA ALEJANDRA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "RAULI DX 69 0 - B? MUTEN - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1990-05-19T00:00:00Z"
+        },
+        {
+            "id": 53399,
+            "dni": 25308639,
+            "razonSocial": "RUSSO, MARTIN NAHUEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "AVDA. OLASCOAGA 1370 - B? VILLA MARIA - 1A",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1976-10-14T00:00:00Z"
+        },
+        {
+            "id": 53534,
+            "dni": 18009852,
+            "razonSocial": "DE SPIRITO, JORGE ARIEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "TALERO 335",
+            "codigoPostal": {
+                "postalID": 0,
+                "ciudad": null,
+                "departamento": null,
+                "provincia": null,
+                "pais": null
+            },
+            "fechaNacimiento": "1967-01-09T00:00:00Z"
+        },
+        {
+            "id": 106322,
+            "dni": 27368647,
+            "razonSocial": "RODRIGUEZ, MARCELA ANAHI",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "COLIHUE 1464 - B# CONFLUENCIA",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1979-06-07T00:00:00Z"
+        },
+        {
+            "id": 96062,
+            "dni": 39646971,
+            "razonSocial": "CORRADI, FIAMA LIZZIE",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "AIMOGASTA 1324 - DON BOSCO III",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1996-10-15T00:00:00Z"
+        },
+        {
+            "id": 67074,
+            "dni": 20370497,
+            "razonSocial": "ALBARRAN, PABLO FABIÁN",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "AVELLANEDA 305 - VILLA FARREL",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1968-07-11T00:00:00Z"
+        },
+        {
+            "id": 52725,
+            "dni": 50466223,
+            "razonSocial": "PEREZ ALTAMIRANO, AGUSTIN SAMUEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "PILAR 161 - SECTOR LOS HORNOS B? VALENTINA",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2010-06-07T00:00:00Z"
+        },
+        {
+            "id": 87127,
+            "dni": 42848856,
+            "razonSocial": "JARA, CAMILA NATALIA AIMARA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "MZA 30 LOTE 1 0 - B? VALENTINA SUR",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2000-10-12T00:00:00Z"
+        },
+        {
+            "id": 61623,
+            "dni": 11680683,
+            "razonSocial": "LEIVA, NORMA NOEMI",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "1? DE MAYO Y HUALCUPEN MBK 87 0 - B? MELIPAL - 242",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1954-12-23T00:00:00Z"
+        },
+        {
+            "id": 54943,
+            "dni": 36257122,
+            "razonSocial": "VILLARROEL, JULIANO ALEJANDRO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MZA 3 L 29 0 - SEC. LA ESTRELLA B? V. CEFERIN",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1991-08-24T00:00:00Z"
+        },
+        {
+            "id": 68969,
+            "dni": 39171373,
+            "razonSocial": "TODOLI, TOMAS FERNANDO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "AV JUAN B JUSTO 637 - 6",
+            "codigoPostal": {
+                "postalID": 0,
+                "ciudad": null,
+                "departamento": null,
+                "provincia": null,
+                "pais": null
+            },
+            "fechaNacimiento": "1995-07-25T00:00:00Z"
+        },
+        {
+            "id": 106198,
+            "dni": 40614931,
+            "razonSocial": "GARRET#N, JEREMÍAS ASAEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "CERRO BANDERA 603 - CENTRO ESTE",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1997-09-07T00:00:00Z"
+        },
+        {
+            "id": 576,
+            "dni": 16951253,
+            "razonSocial": "CUBITTO, CLAUDIA NOEMI",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "RECONQUISTA 832 B RUCA MALEN",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1963-12-20T00:00:00Z"
+        },
+        {
+            "id": 122428,
+            "dni": 50466190,
+            "razonSocial": "SOTO, DAIANA NAHIR",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "MZA 16 CASA 02 0 B# Z 1",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2010-07-14T00:00:00Z"
+        },
+        {
+            "id": 33272,
+            "dni": 7299590,
+            "razonSocial": "GARRIDO, LEANDRO JORGE",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "LEGUIZAMON 479 - VILLA FLORENCIA",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1933-04-19T00:00:00Z"
+        },
+        {
+            "id": 71071,
+            "dni": 33682838,
+            "razonSocial": "RUELLI, JORGE ADAN",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "SANTA CRUZ 824 - B? LOS AROMOS U.F. 8",
+            "codigoPostal": {
+                "postalID": 8316,
+                "ciudad": "PLOTTIER",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1987-10-30T00:00:00Z"
+        },
+        {
+            "id": 94923,
+            "dni": 34242189,
+            "razonSocial": "ALVARADO, RAMON MAXIMILIANO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MZA 21 LOTE 6 SECTOR 7 DE MAYO 0 - B? CUENCA XV",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1989-02-11T00:00:00Z"
+        },
+        {
+            "id": 33915,
+            "dni": 7675635,
+            "razonSocial": "EIGUREN, JOSE ANTONIO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "GOB. ASMAR 267 - CUMELEN - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1949-09-20T00:00:00Z"
+        },
+        {
+            "id": 46341,
+            "dni": 29736165,
+            "razonSocial": "ALVAREZ, CLAUDIO ROLANDO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MZA 27 LOTE 20 0 - TOMA NORTE - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1982-08-11T00:00:00Z"
+        },
+        {
+            "id": 118916,
+            "dni": 39130383,
+            "razonSocial": "FLORES ZENTENO, MARCELA GIMENA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "AV. LAGO TRAFUL MZA 356 LOTE 4 1973 BARRIO: LA ESPERANZA",
+            "codigoPostal": {
+                "postalID": 8309,
+                "ciudad": "CENTENARIO",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1995-12-28T00:00:00Z"
+        },
+        {
+            "id": 88104,
+            "dni": 23098954,
+            "razonSocial": "VALDEBENITO DIAZ, MARIA DE LOS ANGELES",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "PERITO MORENO 477 - AREA CENTRO",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1972-12-08T00:00:00Z"
+        },
+        {
+            "id": 114205,
+            "dni": 30713843,
+            "razonSocial": "MENDOZA, JULIA CONCEPCION",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "PEDRO GENKO 5300 B. LAS FLORCITAS",
+            "codigoPostal": {
+                "postalID": 0,
+                "ciudad": null,
+                "departamento": null,
+                "provincia": null,
+                "pais": null
+            },
+            "fechaNacimiento": "1984-07-14T00:00:00Z"
+        },
+        {
+            "id": 85865,
+            "dni": 48268417,
+            "razonSocial": "MILLALAF, JOB",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MZA 29 CASA 26 0 - B? CUENC XV",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2007-08-26T00:00:00Z"
+        },
+        {
+            "id": 42042,
+            "dni": 28656096,
+            "razonSocial": "GONZALEZ, LORENA ALEJANDRA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "LA RIOJA 1180 - AREA CENTRO - 1B",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1981-04-23T00:00:00Z"
+        },
+        {
+            "id": 1840,
+            "dni": 10168556,
+            "razonSocial": "VILCAVIL, LUIS",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "DOCTOR RAMON MZA 55-DX 42 4879 B SAN LORENZO NORTE",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1952-05-26T00:00:00Z"
+        },
+        {
+            "id": 108032,
+            "dni": 41911780,
+            "razonSocial": "GATICA, AGUSTINA FLORENCIA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "MZA 28 CASA 9 0 - VALENTINA SUR - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1999-08-23T00:00:00Z"
+        },
+        {
+            "id": 1694,
+            "dni": 23400408,
+            "razonSocial": "BROGGI, VIVIANA SOLEDAD",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "LOTE 50 \"C\" SECC. CHACRAS 0",
+            "codigoPostal": {
+                "postalID": 8309,
+                "ciudad": "CENTENARIO",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1973-04-22T00:00:00Z"
+        },
+        {
+            "id": 75104,
+            "dni": 40443938,
+            "razonSocial": "BAEZ, JONATHAN DARÍO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "CERRO BANDERA 1774 - B? I. MALVINAS",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1997-05-17T00:00:00Z"
+        },
+        {
+            "id": 64843,
+            "dni": 27540933,
+            "razonSocial": "GIRAUDO, SERGIO DARIO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "SAN MARTIN 2175 - B? CUMELEN",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1979-09-30T00:00:00Z"
+        },
+        {
+            "id": 78958,
+            "dni": 27773189,
+            "razonSocial": "OLIVARES, MARIA ELENA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "MZA 44 LOTE 16 0 - B? TOMA NORTE II",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1979-11-30T00:00:00Z"
+        },
+        {
+            "id": 42091,
+            "dni": 38101861,
+            "razonSocial": "FAUNDEZ, LUCAS EZEQUIEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "CALLE-15-TIRA-52 0 - B? GREGORIO ALVAREZ - 1794",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1994-06-10T00:00:00Z"
+        },
+        {
+            "id": 125807,
+            "dni": 33917603,
+            "razonSocial": "RIVERO, JOSE ARIEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "DPX 98 MZA 7 00 B# VILLA CEFERINO",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1988-08-13T00:00:00Z"
+        },
+        {
+            "id": 75640,
+            "dni": 25725190,
+            "razonSocial": "MUÑOZ, CLAUDIA YANET",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "SAN JULIAN 1280 - LOTE 55 B? LOS NOTROS - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1977-02-14T00:00:00Z"
+        },
+        {
+            "id": 101017,
+            "dni": 14210309,
+            "razonSocial": "RIVEROS, LUCIA ESTELA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "ALBANIA 345 - CENTRO",
+            "codigoPostal": {
+                "postalID": 8307,
+                "ciudad": "CATRIEL",
+                "departamento": "GENERAL ROCA",
+                "provincia": "RIO NEGRO",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1961-10-18T00:00:00Z"
+        },
+        {
+            "id": 51393,
+            "dni": 34987297,
+            "razonSocial": "FRANCO OROPEZA, SERGIO LEONEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "CASIMIRO GOMEZ MZA \"Q\" LOTE 04 2230 - BELEN",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1989-12-17T00:00:00Z"
+        },
+        {
+            "id": 14305,
+            "dni": 44311583,
+            "razonSocial": "DA RODDA, NICOLÁS GASTÓN",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "PAIM?N CASA N?6 220 - CONSORCIO SOL VALLE CONFLUENCI",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2002-07-07T00:00:00Z"
+        },
+        {
+            "id": 33113,
+            "dni": 41589923,
+            "razonSocial": "DOMENE, EMANUEL OSVALDO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "ALFONCINA ESTORNI 906 - B? 30 DE OCTUBRE",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1999-01-14T00:00:00Z"
+        },
+        {
+            "id": 90818,
+            "dni": 37758303,
+            "razonSocial": "SEPULVEDA, FRANCISCO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "NORMA FONTELA 1663 - B? TERRAZAS DEL SOL",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1993-10-02T00:00:00Z"
+        },
+        {
+            "id": 30258,
+            "dni": 43834108,
+            "razonSocial": "MUÑOZ PICCIONI, DAVID HUMBERTO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "OCEANO PACIFICO 221 - RINCON DE EMILIO",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2001-12-07T00:00:00Z"
+        },
+        {
+            "id": 3517,
+            "dni": 24828859,
+            "razonSocial": "PALACIOS, MATEO ROGELIO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "BASAVILBASO 1580 - SANTA GENOVEVA - 06",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1975-11-20T00:00:00Z"
+        },
+        {
+            "id": 86801,
+            "dni": 32518529,
+            "razonSocial": "TELMO, MARCOS GABRIEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "EL MANZANO 1890 - CONFLUENCIA - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1986-10-21T00:00:00Z"
+        },
+        {
+            "id": 124207,
+            "dni": 38495600,
+            "razonSocial": "OLIVARES, AIXA MICOL",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "ALICURA MBK 113 0 B# MELIPAL",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1994-08-19T00:00:00Z"
+        },
+        {
+            "id": 93062,
+            "dni": 26844900,
+            "razonSocial": "MATAR, ALEJO OSCAR",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "ECUADOR 79 - ALMIRANTE BROWN",
+            "codigoPostal": {
+                "postalID": 8324,
+                "ciudad": "CIPOLLETTI",
+                "departamento": "GENERAL ROCA",
+                "provincia": "RIO NEGRO",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1978-11-10T00:00:00Z"
+        },
+        {
+            "id": 33111,
+            "dni": 95702976,
+            "razonSocial": "MENDOZA BOLIVAR, ADRIANA CRISTINA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "no especifica",
+            "codigoPostal": {
+                "postalID": 0,
+                "ciudad": null,
+                "departamento": null,
+                "provincia": null,
+                "pais": null
+            },
+            "fechaNacimiento": "1993-05-09T00:00:00Z"
+        },
+        {
+            "id": 94627,
+            "dni": 31023956,
+            "razonSocial": "COFRE, DARIO DAMIAN",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MZA D LOTE 1 0 - ALTOS DE NEUQUÉN",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1984-12-08T00:00:00Z"
+        },
+        {
+            "id": 51355,
+            "dni": 41911268,
+            "razonSocial": "CARDENAS, KARINA SOLEDAD",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "CONCEPCION MZA I CASA 8 0 - PLAN 10 VIV. B? VALENTINA SUR - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1999-07-16T00:00:00Z"
+        },
+        {
+            "id": 53205,
+            "dni": 13881690,
+            "razonSocial": "DIAZ ESTEVEZ, MIRTA LILIANA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "EUROPA 705 - RINCON DE EMILIO",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1960-04-19T00:00:00Z"
+        },
+        {
+            "id": 33826,
+            "dni": 13574241,
+            "razonSocial": "KUCHER, JOSÉ ANTONIO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "CASA 6 AUSTRALIA 140 - B? AMEBAN RINCON DE EMILIO",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1959-10-16T00:00:00Z"
+        },
+        {
+            "id": 56255,
+            "dni": 53971005,
+            "razonSocial": "BUYONES MENDEZ, DANILO BAUTISTA",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MZA.H.LOTE.13 0 - 192.VIVIENDAS.GRAN N NORTE",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2014-11-19T00:00:00Z"
+        },
+        {
+            "id": 52657,
+            "dni": 94589960,
+            "razonSocial": "ARNEZ OROPEZA, JHONATAN",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "ANT? MZA 16A LOTE 14 0 - B? ISLAS MALVINAS",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1999-03-08T00:00:00Z"
+        },
+        {
+            "id": 26122,
+            "dni": 31465740,
+            "razonSocial": "YAÑEZ, CARLOS MARIA",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "REPUBLICA DE ITALIA 1972 - ISLAS MALVINAS - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1984-12-31T00:00:00Z"
+        },
+        {
+            "id": 34749,
+            "dni": 43947494,
+            "razonSocial": "PERRI, SANTIAGO JAVIER",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "LAS LENGAS 1463 - B? JARDINES DEL CEIBO",
+            "codigoPostal": {
+                "postalID": 8316,
+                "ciudad": "PLOTTIER",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2002-03-04T00:00:00Z"
+        },
+        {
+            "id": 104264,
+            "dni": 93036386,
+            "razonSocial": "MARDONES INALAF, TEXIA CAMILA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "GOBERNADOR ANAYA 722 - B# COMERCIO - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1989-08-14T00:00:00Z"
+        },
+        {
+            "id": 5352,
+            "dni": 38710891,
+            "razonSocial": "DIMARCO, JULIETA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "AMERICA CENTRAL 639 - B| RINCON DE EMILIO",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1995-04-04T00:00:00Z"
+        },
+        {
+            "id": 62083,
+            "dni": 95999185,
+            "razonSocial": "ARAVENA CAYUPAN, MIRIAM DEL CARMEN",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "",
+            "codigoPostal": {
+                "postalID": 0,
+                "ciudad": null,
+                "departamento": null,
+                "provincia": null,
+                "pais": null
+            },
+            "fechaNacimiento": "1974-02-16T00:00:00Z"
+        },
+        {
+            "id": 46146,
+            "dni": 21567767,
+            "razonSocial": "HERRERA, NESTOR",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "NOGOYA 3743 - B? HUILICHES - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1970-08-01T00:00:00Z"
+        },
+        {
+            "id": 23342,
+            "dni": 36693278,
+            "razonSocial": "FERRO, MAURO EZEQUIEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "LOS ZORZALES MZA 10 LOTE 11 713 - SAN LORENZO SUR",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1992-04-17T00:00:00Z"
+        },
+        {
+            "id": 76882,
+            "dni": 30701145,
+            "razonSocial": "ARAVENA, RAFAEL EXEQUIEL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MZA 7 LOTE 12 0 - B? ISLAS MALVINAS - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1984-01-28T00:00:00Z"
+        },
+        {
+            "id": 53877,
+            "dni": 42305630,
+            "razonSocial": "PILQUIÑAN, AGUSTÍN LAUTARO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "L.G. THOMAS MZA D LOTE 23 0 - B? 192 VIVIENDAS",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2000-02-20T00:00:00Z"
+        },
+        {
+            "id": 60909,
+            "dni": 37781559,
+            "razonSocial": "PELLEGRINO, MARIA AGUSTINA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "ABELLI 2786 - B?14 DE OCTUBRE",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1992-04-15T00:00:00Z"
+        },
+        {
+            "id": 127068,
+            "dni": 55160851,
+            "razonSocial": "CAMACHO RODRIGUEZ, THIAGO ALEJANDRO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "SPINELLI MZA 28 CASA 21 0 B# I. MALVINAS",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2016-06-28T00:00:00Z"
+        },
+        {
+            "id": 5215,
+            "dni": 17025852,
+            "razonSocial": "LLARIN, MARIA IVONNE",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "BUENOS AIRES 601 - CENTRO - 8",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1964-11-25T00:00:00Z"
+        },
+        {
+            "id": 126624,
+            "dni": 26645648,
+            "razonSocial": "ROJAS, MANUEL ALEJANDRO",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MZA-20-CASA-880 0 B# MELIPAL",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1978-07-02T00:00:00Z"
+        },
+        {
+            "id": 37248,
+            "dni": 4128651,
+            "razonSocial": "FERNANDEZ, ALEJANDRINA FELIPA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "RIVADAVIA 791 - COOK - 0000",
+            "codigoPostal": {
+                "postalID": 6271,
+                "ciudad": null,
+                "departamento": null,
+                "provincia": null,
+                "pais": null
+            },
+            "fechaNacimiento": "1940-05-26T00:00:00Z"
+        },
+        {
+            "id": 97408,
+            "dni": 33291725,
+            "razonSocial": "VALDEZ, BELÉN NOELIA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "VILLEGAS 1069 - B? SANTA GENOVEVA",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1987-10-21T00:00:00Z"
+        },
+        {
+            "id": 34244,
+            "dni": 26741861,
+            "razonSocial": "ROJAS, LORENA SANDRA",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "MZA 59 LOTE 7 - B? TOMA 7 DE MAYO",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1978-09-05T00:00:00Z"
+        },
+        {
+            "id": 63004,
+            "dni": 32922237,
+            "razonSocial": "DIAZ MORENO, JORGE YAMIL",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "LOS HORNEROS MZA 8 LOTE 6 0 - VALENTINA SUR - 00",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1987-04-19T00:00:00Z"
+        },
+        {
+            "id": 13872,
+            "dni": 48914599,
+            "razonSocial": "POZAS FIGUEROA, YAIR ALEXIS",
+            "genero": {
+                "id": 0,
+                "textID": "M",
+                "value": "MASCULINO"
+            },
+            "domicilio": "MZA.41.C.LOTE.08 0 - TOMA NORTE . II .",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "2008-07-19T00:00:00Z"
+        },
+        {
+            "id": 60075,
+            "dni": 38063706,
+            "razonSocial": "REBALIATTI, SILVANA RAQUEL",
+            "genero": {
+                "id": 1,
+                "textID": "F",
+                "value": "FEMENINO"
+            },
+            "domicilio": "RODHE Y SERRANO-MZA 6 0 - GRAN NEUQN SUR",
+            "codigoPostal": {
+                "postalID": 8300,
+                "ciudad": "NEUQUÉN CAPITAL",
+                "departamento": "CONFLUENCIA",
+                "provincia": "NEUQUÉN",
+                "pais": "ARGENTINA"
+            },
+            "fechaNacimiento": "1994-02-18T00:00:00Z"
+        }
+    ],
+    "error": null
+}
